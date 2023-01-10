@@ -1,12 +1,12 @@
 # Commandos
 
-### Listar contenedores que se están ejecutando
+### Listar contenedores que se solo se están ejecutando
 
 ```
 docker ps
 ```
 
-### Listar contenedores que se están ejecutando
+### Listar contenedores que se están ejecutando y estan detenidos
 
 ```
 docker ps -a
