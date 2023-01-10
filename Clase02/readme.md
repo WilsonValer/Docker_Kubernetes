@@ -1,6 +1,6 @@
 # Commandos
 
-### Listar contenedores que se solo se están ejecutando
+### Listar contenedores que solo se están ejecutando
 
 ```
 docker ps
